@@ -20,6 +20,6 @@ _It is very basic and I do not know if it works for every MyProgrammingLab produ
 - It will take 2+ minutes to run depending on the number of exercises.
 - After it is done, it will download a `markdown` file with the results.
 
-## 💻 Example Output
+<!-- ## 💻 Example Output -->
 
-![Image](https://github.com/mtsfy/mpl-scraper/assets/101224885/40010442-86bd-4f17-9ac6-cf587b9c8298)
+<!-- ![Image](https://github.com/mtsfy/mpl-scraper/assets/101224885/40010442-86bd-4f17-9ac6-cf587b9c8298) -->
